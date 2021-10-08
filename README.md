@@ -1,6 +1,11 @@
-# IOS Challenge
-Desafio proposto pelo **Instituto de Pesquisas Eldorado**. Consiste em consumir a **API do GitHub**, e extrair informações básicas sobre os repositórios relacionados a linguagem **Swift** e seus respectivos pull requests. Todos os Widgets, foram escolhidos de acordo com sua equivalência na versão nativa do IOS, conforme essa sessão da [documentação do Flutter](https://flutter.dev/docs/get-started/flutter-for/ios-devs#what-is-the-equivalent-to-coredata-in-flutter).
 
+
+![Frame 1 (4)](https://user-images.githubusercontent.com/57741609/136587266-d4b4c043-dcff-452a-9967-ac7e03ea790d.png)
+
+
+
+Desafio proposto pelo **Instituto de Pesquisas Eldorado**. Consiste em consumir a **API do GitHub**, e extrair informações básicas sobre os repositórios relacionados a linguagem **Swift** e seus respectivos pull requests. Todos os Widgets, foram escolhidos de acordo com sua equivalência na versão nativa do IOS, conforme essa sessão da [documentação do Flutter](https://flutter.dev/docs/get-started/flutter-for/ios-devs#what-is-the-equivalent-to-coredata-in-flutter).
+##
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -20,8 +25,8 @@ Tabela de conteúdos
 ##
 # Instruções de Uso
  - Tenha o [**flutter SDK**](https://flutter.dev/docs/get-started/install), instalado em sua máquina.
- - Selecione o Device que será usado para o teste.
- - Clone o repositório e execute o programa via linha de comando com ````flutter run```` na pasta raiz do repositório.
+ - Selecione o Device que será usado para o teste, recomendo o [**AVD Manager**](https://developer.android.com/studio/run/managing-avds?hl=pt-br) do Android Studio.
+ - Clone o repositório e execute o comando com ````flutter run```` na pasta raiz do repositório.
 ##
 # Telas
 ![Frame 1 (1)](https://user-images.githubusercontent.com/57741609/136555291-f29ec757-7556-4c5c-86a0-dd9987b53beb.png)
