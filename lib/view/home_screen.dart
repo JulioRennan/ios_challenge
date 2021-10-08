@@ -1,9 +1,7 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ios_challenge/view/repository_view/repository_screen.dart';
-
 class HomeScreen extends StatelessWidget {
   HomeScreen({Key? key}) : super(key: key);
   TextEditingController textEditingController =
