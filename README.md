@@ -1,5 +1,5 @@
 # IOS Challenge
-Desafio proposto pelo **Instituto de Pesquisa Eldolrado**. Consiste em consumir a **API do GitHub**, e extrair informações básicas sobre os repositórios relacionados a linguagem **Swift** e seus respectivos pull requests. Todos os Widgets, foram escolhidos de acordo com sua equivalência na versão nativa do IOS, conforme essa sessão da [documentação do Flutter](https://flutter.dev/docs/get-started/flutter-for/ios-devs#what-is-the-equivalent-to-coredata-in-flutter).
+Desafio proposto pelo **Instituto de Pesquisas Eldorado**. Consiste em consumir a **API do GitHub**, e extrair informações básicas sobre os repositórios relacionados a linguagem **Swift** e seus respectivos pull requests. Todos os Widgets, foram escolhidos de acordo com sua equivalência na versão nativa do IOS, conforme essa sessão da [documentação do Flutter](https://flutter.dev/docs/get-started/flutter-for/ios-devs#what-is-the-equivalent-to-coredata-in-flutter).
 
 
 ## Direferenciais implementados
