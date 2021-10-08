@@ -74,7 +74,7 @@ Pois como o **Flutter**, possui o estilo de UI declarivo é comum que a view e a
 
 #
 
-<kbd> <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEET_PIFFi3Bg/profile-displayphoto-shrink_800_800/0/1615702283090?e=1639008000&v=beta&t=FnSTOJ9OX0qWGWezZDCixv1pns4XWeN624yMSL900eo" height="auto" width="50" style="border-radius:50%"></a></kbd>   Feito com ❤️ por **Julio Rennan!** 
+<kbd> <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEET_PIFFi3Bg/profile-displayphoto-shrink_800_800/0/1615702283090?e=1639008000&v=beta&t=FnSTOJ9OX0qWGWezZDCixv1pns4XWeN624yMSL900eo" height="auto" width="50" style="border-radius:50%"></a></kbd>   Feito por: **Julio Rennan!** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-souza-4ab63b1aa/)](https://www.linkedin.com/in/julio-souza-4ab63b1aa/) 
   
